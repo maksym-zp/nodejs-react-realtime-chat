@@ -1,0 +1,5 @@
+.env
+/node_modules
+.idea
+public/images/avatars/*
+!public/images/avatars/default-avatar.png
